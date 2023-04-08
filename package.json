@@ -1,6 +1,9 @@
 {
   "name": "web-playback-sdk-sample-app",
   "version": "0.1.0",
+    "engines": {
+    "node": "17.x"
+  },
   "private": true,
   "dependencies": {
     "react": "^17.0.2",
